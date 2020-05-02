@@ -18,5 +18,9 @@
   "homepage": "https://github.com/FelipeBockMagagnin/GamePlayTime-Api#readme",
   "devDependencies": {
     "git-commit-msg-linter": "^2.4.2"
+  },
+  "dependencies": {
+    "@types/node": "^13.13.4",
+    "typescript": "^3.8.3"
   }
 }
