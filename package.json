@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/FelipeBockMagagnin/GamePlayTime-Api/issues"
   },
-  "homepage": "https://github.com/FelipeBockMagagnin/GamePlayTime-Api#readme"
+  "homepage": "https://github.com/FelipeBockMagagnin/GamePlayTime-Api#readme",
+  "devDependencies": {
+    "git-commit-msg-linter": "^2.4.2"
+  }
 }
